@@ -1,130 +1,95 @@
-# 👋 Hi, I’m Bikash Mainali
-
-🚀 **Senior Full Stack Software Engineer**  
-💻 Java | JavaScript | TypeScript | Spring Boot | React | Vue | Angular | AWS | Microservices  
-📍 San Lorenzo, CA | 🌎 Open to Remote Opportunities
-
----
-
-## 🧑‍💻 About Me
-
-I’m a **Senior Full Stack Developer with 8+ years of experience** building scalable, high-performance enterprise applications across **healthcare, finance (AML/CFT), ad-platforms, and e-commerce** domains.
-
-I specialize in:
-- Designing **microservice architectures**
-- Building **secure, scalable backend systems**
-- Creating **modern, responsive UIs**
-- Implementing **CI/CD, cloud, and DevOps best practices**
-
-I enjoy solving complex problems, mentoring engineers, and continuously learning new technologies in **Cloud, DevOps, and AI/ML**.
+# 💫 About Me
+🚀 Senior Full Stack Software Engineer with 8+ years of experience  
+💻 Java | JavaScript | TypeScript | Spring Boot | React | Vue | Angular | Microservices | AWS  
+📍 California, USA | 🌎 Open to Remote Opportunities  
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💡 Languages
-- Java (8–25), Groovy, Python  
-- JavaScript, TypeScript
-
-### 🌐 Frontend
-- React.js, Vue.js, Angular (9–15)
-- HTML5, CSS3, Sass, Tailwind CSS, Bootstrap
-- Material UI, jQuery
-
-### ⚙️ Backend & APIs
-- Spring Boot, Spring MVC, Spring Security, JPA/Hibernate
-- Node.js, Express, FAST API
-- RESTful APIs, OAuth2, JWT, Swagger
-- Kafka (Producer/Consumer), RxJava
-
-### 🗄️ Databases
-- PostgreSQL, Oracle, MSSQL, MySQL
-- MongoDB, Cassandra, IBM DB2
-- Liquibase, PL/SQL
-
-### ☁️ Cloud & DevOps
-- AWS (EKS, RDS, EC2)
-- Docker, Kubernetes
-- GitHub Actions, Jenkins, Spinnaker, Rio
-- Grafana, ELK, SonarQube, SonarCloud
-- Lacework, SCA / SAST / DAST
-
-### 🧪 Testing
-- JUnit, Mockito, TestContainers
-- Playwright, Selenium
-- TDD / BDD (Cucumber)
+## 🌐 Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/biki51)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mainalibiki)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bikashmainali18)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BikashMainali94)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bikashmainali18@gmail.com)
 
 ---
 
-## 🏢 Professional Experience
-
-### **Senior Software Engineer — CHG Healthcare**
-📅 *Jul 2024 – Present*
-- Designed and built **Java 25 + Spring Boot microservices**
-- Developed modern UIs with **Vue.js and React**
-- Implemented **Kafka-based event-driven architecture**
-- Built **CI/CD pipelines using GitHub Actions**
-- Deployed and scaled services using **Docker & Kubernetes (EKS)**
-- Implemented **RAG-based AI assistant** using FAST API & LLaMA
-- Mentored junior engineers and led design discussions
-
----
-
-### **Java Developer — Morgan Stanley**
-📅 *Jul 2023 – Sep 2024*
-- Built **AML / Customer Risk Ranking systems**
-- Developed REST APIs and **Angular 15 frontends**
-- Integrated **Kafka, Redis, ElasticSearch**
-- Automated batch jobs with **AutoSys**
-- Implemented CI/CD using **Jenkins**
-- Optimized databases (DB2, MSSQL, MongoDB)
-
----
-
-### **Java Engineer — Apple (via Advantis Global)**
-📅 *Oct 2022 – Feb 2023*
-- Built **Apple Search Ads microservices**
-- Practiced **TDD with 80%+ coverage**
-- Used **Kafka, Cassandra, Oracle**
-- Deployed on **AWS EKS**
-- Implemented multiple **GoF design patterns**
-
----
-
-### **Software Engineer — Deerwalk Services**
-📅 *Mar 2021 – Oct 2021*
-- Developed healthcare analytics microservices
-- Built Angular dashboards and search using ElasticSearch
-- Implemented **OAuth2, JWT, CI/CD, Kafka**
-- Led performance monitoring with **Kibana & Grafana**
-
----
-
-## 🎓 Education
-- **M.S. in Computer Science** — Maharishi International University (2023)
-- **B.E. in Information Technology** — Cosmos College, Nepal (2017)
-
----
-
-## 📜 Certifications
-- **Boomi Associate Developer (2025–2027)**
-- **Boomi Professional Developer (2025–2027)**
+## 💻 Tech Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/kafka-000?style=for-the-badge&logo=apachekafka)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bikash-Mainali&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bikash-Mainali&layout=compact)
-
----
-
-## 🤝 Let’s Connect
-
-- 💼 LinkedIn: [linkedin.com/in/bikashmainali18](https://www.linkedin.com/in/bikashmainali18)
-- 💻 GitHub: [github.com/Bikash-Mainali](https://github.com/Bikash-Mainali)
-- 📧 Email: Bikashmainali18@gmail.com
+![](https://github-readme-stats.vercel.app/api?username=Bikash-Mainali&theme=dark&include_all_commits=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Bikash-Mainali&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bikash-Mainali&theme=dark&layout=compact)
 
 ---
 
-⭐ *If you like my work, feel free to star my repositories!*
+## 📈 Developer Dashboard
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bikash-Mainali&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bikash-Mainali&theme=github_dark&utcOffset=-8)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bikash-Mainali&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bikash-Mainali&theme=github_dark)
+
+---
+
+## 🧩 Contribution Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=Bikash-Mainali&theme=react-dark)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Bikash-Mainali&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## 🧠 Engineering Focus
+- Microservices & Distributed Systems  
+- Event-Driven Architecture (Kafka)  
+- Cloud-Native Development (AWS, EKS)  
+- CI/CD Automation  
+- Secure APIs (OAuth2, JWT)  
+- Observability & Monitoring (Grafana, ELK)
+
+---
+
+## 🚀 What I’m Working On
+- Healthcare microservices (Java 25, Spring Boot)
+- Kafka-based pipelines
+- AI-assisted tools (RAG + LLMs)
+- Cloud reliability & performance
+- Mentoring engineers
+
+---
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🔝 Top Contributed Repos
+![](https://github-contributor-stats.vercel.app/api?username=Bikash-Mainali&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Bikash-Mainali&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Clean, structured, senior-level GitHub profile -->
