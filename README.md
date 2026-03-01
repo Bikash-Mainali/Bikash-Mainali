@@ -54,19 +54,6 @@ In simple terms: I build the invisible systems that make apps fast, safe, and sm
 
 ---
 
-## 💼 Professional Journey
-
-| 🏢 Company | 🗓️ Period | 🎯 Role | 🏆 Key Impact |
-|---|---|---|---|
-| **CHG Healthcare** | Jul 2024 – Present | Senior Full Stack Engineer | RAG+LLaMA AI assistant; 40% faster CI/CD; 95% test coverage |
-| **Morgan Stanley** | Jul 2023 – Sep 2024 | Full Stack Engineer | ECRR risk platform; 60% faster client lookup; 50% fewer DB queries |
-| **Apple** *(Advantis Global)* | Oct 2022 – Feb 2023 | Java Engineer | Search Ads at sub-100ms latency; 99.9% uptime on EKS |
-| **Deerwalk Services** | Mar 2021 – Oct 2021 | Full Stack Engineer | File Mapper Engine for 500+ healthcare orgs; 70% faster page loads |
-| **Datum Systems** | Mar 2020 – Mar 2021 | Java Web Developer | AML/ATF core banking system for Nepal's largest commercial banks |
-| **Ishani Technology** | May 2017 – Feb 2020 | Web App Developer | Enterprise e-commerce platforms; full Spring MVC + Angular stack |
-
----
-
 ## ⚙️ Tech Arsenal
 
 <div align="center">
@@ -106,10 +93,8 @@ In simple terms: I build the invisible systems that make apps fast, safe, and sm
 ![AWS](https://img.shields.io/badge/AWS_EKS%2FRDS%2FLambda-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Spinnaker](https://img.shields.io/badge/Spinnaker-139BB4?style=for-the-badge&logoColor=white)
 
 ### 🔷 Messaging & Integration
@@ -153,15 +138,15 @@ In simple terms: I build the invisible systems that make apps fast, safe, and sm
 
 | Domain | Details |
 |--------|---------|
-| 🏗️ **Microservices & Distributed Systems** | gRPC, REST, GraphQL, API Gateway, service decomposition |
-| ⚡ **Event-Driven Architecture** | Kafka producer-consumer, event sourcing, CQRS, ActiveMQ, RabbitMQ |
-| 🤖 **AI Engineering** | RAG pipelines, LLaMA, LangChain4j, pgvector, Pinecone, OpenAI |
+| 🏗️ **Microservices & Distributed Systems** | REST, GraphQL, API Gateway |
+| ⚡ **Event-Driven Architecture** | Kafka, CQRS, ActiveMQ, RabbitMQ |
+| 🤖 **AI Engineering** | RAG pipelines, LLaMA, LangChain, pgvector, OpenAI |
 | ☁️ **Cloud-Native (AWS)** | EKS, ECS, Lambda, RDS, S3, CloudFront, zero-downtime deployments |
 | 🔐 **Security & Compliance** | OAuth2, JWT, Spring Security, AML/CFT, KYC, SCA/SAST/DAST |
-| 🔗 **Integration & iPaaS** | Boomi iPaaS, Salesforce sync, AutoSys batch automation |
+| 🔗 **Integration & iPaaS** | Boomi iPaaS, AutoSys batch automation |
 | 📈 **Observability** | Grafana, Prometheus, ELK stack, Kibana DSL queries, Opsgenie |
 | 🧪 **Quality Engineering** | TDD, BDD (Cucumber), 80–95% code coverage, TestContainers |
-| 🎨 **Design Patterns** | Facade, Strategy, Observer, Builder, Factory, Saga, CQRS, Proxy |
+| 🎨 **Design Patterns** | Facade, Strategy, Observer, Builder, Factory, Saga, CQRS, Proxy, Template, Chaing of Responsibility, Singleton, Prototype, Adapter, Composite, Decorator, Command, State, Iterator, Factory  |
 
 </div>
 
@@ -175,32 +160,14 @@ company: CHG Healthcare
 since: July 2024
 
 active_projects:
-  ai_assistant:
-    description: AI-powered video chat assistant for healthcare professionals
-    stack: [Python, FastAPI, LLaMA, RAG Architecture, LangChain4j]
-
   microservices_platform:
     description: Healthcare staffing microservices for thousands of professionals
-    stack: [Java 21, Spring Boot 3.x, MongoDB, Kafka, Docker, AWS EKS]
+    stack: [Java 25, Spring Boot 4.x, Kafka, Docker, AWS, EKS]
 
   frontend_migration:
     description: Full rewrite of Vue.js application to React.js
     highlight: Custom component library built from scratch
     coverage: 95%  # SonarCloud compliance
-
-  data_integration:
-    description: Boomi iPaaS — Salesforce to LocumSmart automated sync
-    impact: Eliminated manual data entry errors across workflows
-
-  cicd_automation:
-    stack: [GitHub Actions, EKS, Grafana, Opsgenie]
-    improvement: "40% faster deployments"
-    strategy: Zero-downtime releases with real-time incident response
-
-mentoring:
-  direct_reports: 3 junior engineers
-  focus: [system design, debugging, code reviews, delivery velocity]
-  ceremonies: [sprint planning, retrospectives, feature demos]
 ```
 
 ---
@@ -274,35 +241,87 @@ mentoring:
 
 </div>
 
-```
- ┌──────────────────────────────────────────────────────────────────────────┐
- │                        REFERENCE ARCHITECTURE                            │
- └──────────────────────────────────────────────────────────────────────────┘
+```mermaid
 
-  [React / Vue / Angular]
-         │
-         ▼
-  [API Gateway] ── [OAuth2 + JWT via Spring Security]
-         │
-         ├──► [Service A : Java 21 + Spring Boot 3.x]
-         ├──► [Service B : Node.js + Express]
-         ├──► [Service C : Python FastAPI]
-         └──► [AI Service : RAG + LLaMA + LangChain4j + pgvector]
-                    │              │               │
-                    ▼              ▼               ▼
-              [Apache Kafka Event Bus — Producer / Consumer / Streams]
-                              │
-               ┌──────────────┴─────────────────┐
-               ▼                                 ▼
-     [Risk / Analytics Consumer]     [Notification Consumer]
-               │
-  [PostgreSQL │ MongoDB │ Redis │ Cassandra │ Elasticsearch │ IBM DB2]
-               │
-  [Grafana + Prometheus + ELK Stack + Opsgenie Alerting]
-               │
-  [AWS EKS │ ArgoCD GitOps │ GitHub Actions CI/CD │ SonarQube 95%+ Coverage]
-```
+flowchart TB
+    %% Layer 1: Users
+    subgraph "User Layer"
+        USERS[Customers & Admins]
+    end
 
+    %% Layer 2: Frontend
+    subgraph "Frontend Layer"
+        WEB[Web & Mobile Apps]
+        APP[Admin Dashboard]
+    end
+
+    %% Layer 3: API & Orchestration
+    subgraph "API & Orchestration Layer"
+        API[API Gateway / Load Balancer]
+        AUTH[Auth & Rate Limiting]
+        ORCH[Order & Payment Orchestrator]
+    end
+
+    %% Layer 4: Services
+    subgraph "Microservices Layer"
+        CATALOG[Product Catalog Service]
+        CART[Cart & Checkout Service]
+        PAYMENT[Payment Service]
+        INVENTORY[Inventory Service]
+        SHIPPING[Shipping Service]
+    end
+
+    %% Layer 5: Data Layer
+    subgraph "Data & Storage Layer"
+        DB[(Relational / NoSQL Databases)]
+        CACHE[(Distributed Cache)]
+        EVENT[Event Stream / Message Queue]
+        SEARCH[Search Index]
+    end
+
+    %% Layer 6: Observability & Infrastructure
+    subgraph "Observability & Infra Layer"
+        LOGS[Centralized Logs]
+        METRICS[Metrics & Dashboards]
+        TRACES[Distributed Tracing]
+    end
+
+    %% Connections
+    USERS --> WEB
+    USERS --> APP
+    WEB --> API
+    APP --> API
+    API --> AUTH
+    AUTH --> ORCH
+
+    ORCH --> CATALOG
+    ORCH --> CART
+    ORCH --> PAYMENT
+    ORCH --> INVENTORY
+    ORCH --> SHIPPING
+
+    CATALOG --> DB
+    CART --> DB
+    PAYMENT --> DB
+    INVENTORY --> DB
+    SHIPPING --> DB
+
+    CATALOG --> CACHE
+    CART --> CACHE
+    INVENTORY --> CACHE
+
+    PAYMENT --> EVENT
+    CART --> EVENT
+    SHIPPING --> EVENT
+
+    CATALOG --> SEARCH
+
+    ORCH --> LOGS
+    PAYMENT --> LOGS
+    SHIPPING --> LOGS
+    EVENT --> METRICS
+    ORCH --> TRACES
+```
 ---
 
 <div align="center">
