@@ -1,95 +1,319 @@
-# 💫 About Me
-🚀 Senior Full Stack Software Engineer with 8+ years of experience  
-💻 Java | JavaScript | TypeScript | Spring Boot | React | Vue | Angular | Microservices | AWS  
-📍 California, USA | 🌎 Open to Remote Opportunities  
+<div align="center">
+
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=210&section=header&text=Bikash%20Mainali&fontSize=62&fontColor=00d4ff&fontAlignY=38&desc=Senior%20Full%20Stack%20Engineer%20%7C%20Apple%20%E2%80%A2%20Morgan%20Stanley%20%E2%80%A2%20CHG%20Healthcare&descSize=15&descColor=8892b0&descAlignY=58&animation=fadeIn"/>
+
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=750&lines=Java+21+%7C+Spring+Boot+3.x+%7C+Microservices+Architect;RAG+%2B+LLaMA+%7C+AI-Powered+Healthcare+Systems;Apache+Kafka+%7C+Event-Driven+Architecture;AWS+EKS+%7C+Kubernetes+%7C+Cloud-Native+Engineer;Sub-100ms+Latency+at+Apple+Search+Ads;AML%2FCFT+Risk+Systems+%40+Morgan+Stanley;8%2B+Years+%7C+Fortune+500+Production+Systems" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/github/followers/Bikash-Mainali?style=for-the-badge&logo=github&logoColor=white&label=GitHub+Followers&color=0e75b6&labelColor=1a1a2e" alt="Followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Experience-8%2B%20Years-00d4ff?style=for-the-badge&labelColor=1a1a2e" alt="Experience"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20To-Remote%20%7C%20Hybrid-2ecc71?style=for-the-badge&labelColor=1a1a2e" alt="Open to Work"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Based%20In-California%2C%20USA-ff6b6b?style=for-the-badge&labelColor=1a1a2e" alt="Location"/>
+</p>
+
+</div>
 
 ---
 
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/biki51)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mainalibiki)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bikashmainali18)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BikashMainali94)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bikashmainali18@gmail.com)
+## 👋 About Me
+
+<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+Hi, I'm **Bikash** — a software engineer based in USA with over **8 years of experience** building software that real people rely on every day.
+
+I've worked at some of the world's most recognized companies, solving problems that range from powering **Apple's advertising platform** to protecting **Morgan Stanley's global financial systems** against fraud, and now, I focus on building digital solutions at CHG Healthcare that simplify workflows and improve the daily lives of healthcare professionals.
+In simple terms: I build the invisible systems that make apps fast, safe, and smart.
+
+
+> *"Design systems that are resilient by default, observable by necessity, and scalable by architecture — not by accident."*
+
+<br clear="right"/>
 
 ---
 
-## 💻 Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/kafka-000?style=for-the-badge&logo=apachekafka)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+## 🛰️ Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bikashmainali18-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bikashmainali18)
+[![X / Twitter](https://img.shields.io/badge/X-BikashMainali94-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/BikashMainali94)
+[![Gmail](https://img.shields.io/badge/Gmail-bikashmainali18-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bikashmainali18@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-mainalibiki-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mainalibiki)
+[![GitHub](https://img.shields.io/badge/GitHub-Bikash--Mainali-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bikash-Mainali)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Bikash-Mainali&theme=dark&include_all_commits=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Bikash-Mainali&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bikash-Mainali&theme=dark&layout=compact)
+## 💼 Professional Journey
+
+| 🏢 Company | 🗓️ Period | 🎯 Role | 🏆 Key Impact |
+|---|---|---|---|
+| **CHG Healthcare** | Jul 2024 – Present | Senior Full Stack Engineer | RAG+LLaMA AI assistant; 40% faster CI/CD; 95% test coverage |
+| **Morgan Stanley** | Jul 2023 – Sep 2024 | Full Stack Engineer | ECRR risk platform; 60% faster client lookup; 50% fewer DB queries |
+| **Apple** *(Advantis Global)* | Oct 2022 – Feb 2023 | Java Engineer | Search Ads at sub-100ms latency; 99.9% uptime on EKS |
+| **Deerwalk Services** | Mar 2021 – Oct 2021 | Full Stack Engineer | File Mapper Engine for 500+ healthcare orgs; 70% faster page loads |
+| **Datum Systems** | Mar 2020 – Mar 2021 | Java Web Developer | AML/ATF core banking system for Nepal's largest commercial banks |
+| **Ishani Technology** | May 2017 – Feb 2020 | Web App Developer | Enterprise e-commerce platforms; full Spring MVC + Angular stack |
+
+---
+
+## ⚙️ Tech Arsenal
+
+<div align="center">
+
+### 🔷 Languages
+![Java](https://img.shields.io/badge/Java_21-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🔷 Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.x-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%234ea94b.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🔷 Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Angular](https://img.shields.io/badge/Angular_15-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### 🔷 AI & Machine Learning
+![LangChain](https://img.shields.io/badge/LangChain4j-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Meta LLaMA](https://img.shields.io/badge/LLaMA_Model-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone_VectorDB-000000?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Architecture-FF6B35?style=for-the-badge&logoColor=white)
+
+### 🔷 Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS_EKS%2FRDS%2FLambda-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Spinnaker](https://img.shields.io/badge/Spinnaker-139BB4?style=for-the-badge&logoColor=white)
+
+### 🔷 Messaging & Integration
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![ActiveMQ](https://img.shields.io/badge/ActiveMQ-CC2927?style=for-the-badge&logo=apache&logoColor=white)
+![Boomi](https://img.shields.io/badge/Boomi_iPaaS-0073C7?style=for-the-badge&logoColor=white)
+
+### 🔷 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![IBM DB2](https://img.shields.io/badge/IBM_DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### 🔷 Testing
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![TestContainers](https://img.shields.io/badge/TestContainers-333333?style=for-the-badge&logoColor=white)
+
+### 🔷 Observability & Security
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Opsgenie](https://img.shields.io/badge/Opsgenie-172B4D?style=for-the-badge&logo=opsgenie&logoColor=white)
+![Lacework](https://img.shields.io/badge/Lacework-680FAD?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+## 🧠 Domain Expertise
+
+<div align="center">
+
+| Domain | Details |
+|--------|---------|
+| 🏗️ **Microservices & Distributed Systems** | gRPC, REST, GraphQL, API Gateway, service decomposition |
+| ⚡ **Event-Driven Architecture** | Kafka producer-consumer, event sourcing, CQRS, ActiveMQ, RabbitMQ |
+| 🤖 **AI Engineering** | RAG pipelines, LLaMA, LangChain4j, pgvector, Pinecone, OpenAI |
+| ☁️ **Cloud-Native (AWS)** | EKS, ECS, Lambda, RDS, S3, CloudFront, zero-downtime deployments |
+| 🔐 **Security & Compliance** | OAuth2, JWT, Spring Security, AML/CFT, KYC, SCA/SAST/DAST |
+| 🔗 **Integration & iPaaS** | Boomi iPaaS, Salesforce sync, AutoSys batch automation |
+| 📈 **Observability** | Grafana, Prometheus, ELK stack, Kibana DSL queries, Opsgenie |
+| 🧪 **Quality Engineering** | TDD, BDD (Cucumber), 80–95% code coverage, TestContainers |
+| 🎨 **Design Patterns** | Facade, Strategy, Observer, Builder, Factory, Saga, CQRS, Proxy |
+
+</div>
+
+---
+
+## 🚀 Current Focus @ CHG Healthcare
+
+```yaml
+role: Senior Full Stack Software Engineer
+company: CHG Healthcare
+since: July 2024
+
+active_projects:
+  ai_assistant:
+    description: AI-powered video chat assistant for healthcare professionals
+    stack: [Python, FastAPI, LLaMA, RAG Architecture, LangChain4j]
+
+  microservices_platform:
+    description: Healthcare staffing microservices for thousands of professionals
+    stack: [Java 21, Spring Boot 3.x, MongoDB, Kafka, Docker, AWS EKS]
+
+  frontend_migration:
+    description: Full rewrite of Vue.js application to React.js
+    highlight: Custom component library built from scratch
+    coverage: 95%  # SonarCloud compliance
+
+  data_integration:
+    description: Boomi iPaaS — Salesforce to LocumSmart automated sync
+    impact: Eliminated manual data entry errors across workflows
+
+  cicd_automation:
+    stack: [GitHub Actions, EKS, Grafana, Opsgenie]
+    improvement: "40% faster deployments"
+    strategy: Zero-downtime releases with real-time incident response
+
+mentoring:
+  direct_reports: 3 junior engineers
+  focus: [system design, debugging, code reviews, delivery velocity]
+  ceremonies: [sprint planning, retrospectives, feature demos]
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bikash-Mainali&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikash-Mainali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=Bikash-Mainali&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff"/>
+
+</div>
 
 ---
 
 ## 📈 Developer Dashboard
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bikash-Mainali&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bikash-Mainali&theme=github_dark&utcOffset=-8)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bikash-Mainali&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bikash-Mainali&theme=github_dark)
 
----
+<div align="center">
 
-## 🧩 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=Bikash-Mainali&theme=react-dark)
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bikash-Mainali&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bikash-Mainali&theme=github_dark"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bikash-Mainali&theme=github_dark"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bikash-Mainali&theme=github_dark&utcOffset=-8"/>
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bikash-Mainali&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Bikash-Mainali&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
+
+</div>
 
 ---
 
-## 🧠 Engineering Focus
-- Microservices & Distributed Systems  
-- Event-Driven Architecture (Kafka)  
-- Cloud-Native Development (AWS, EKS)  
-- CI/CD Automation  
-- Secure APIs (OAuth2, JWT)  
-- Observability & Monitoring (Grafana, ELK)
+## 🧩 Contribution Graph
 
----
+<div align="center">
 
-## 🚀 What I’m Working On
-- Healthcare microservices (Java 25, Spring Boot)
-- Kafka-based pipelines
-- AI-assisted tools (RAG + LLMs)
-- Cloud reliability & performance
-- Mentoring engineers
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bikash-Mainali&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true"/>
 
----
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
 
 ## 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=Bikash-Mainali&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Bikash-Mainali&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true"/>
+
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Bikash-Mainali&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🌐 Architecture Philosophy
 
-<!-- Clean, structured, senior-level GitHub profile -->
+<div align="center">
+
+> *"Design systems that are resilient by default, observable by necessity, and scalable by architecture — not by accident."*
+
+</div>
+
+```
+ ┌──────────────────────────────────────────────────────────────────────────┐
+ │                        REFERENCE ARCHITECTURE                            │
+ └──────────────────────────────────────────────────────────────────────────┘
+
+  [React / Vue / Angular]
+         │
+         ▼
+  [API Gateway] ── [OAuth2 + JWT via Spring Security]
+         │
+         ├──► [Service A : Java 21 + Spring Boot 3.x]
+         ├──► [Service B : Node.js + Express]
+         ├──► [Service C : Python FastAPI]
+         └──► [AI Service : RAG + LLaMA + LangChain4j + pgvector]
+                    │              │               │
+                    ▼              ▼               ▼
+              [Apache Kafka Event Bus — Producer / Consumer / Streams]
+                              │
+               ┌──────────────┴─────────────────┐
+               ▼                                 ▼
+     [Risk / Analytics Consumer]     [Notification Consumer]
+               │
+  [PostgreSQL │ MongoDB │ Redis │ Cassandra │ Elasticsearch │ IBM DB2]
+               │
+  [Grafana + Prometheus + ELK Stack + Opsgenie Alerting]
+               │
+  [AWS EKS │ ArgoCD GitOps │ GitHub Actions CI/CD │ SonarQube 95%+ Coverage]
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer&animation=fadeIn"/>
+
+**💬 Open to senior engineering roles, remote collaborations, and technical discussions.**
+**Let's build something remarkable together.**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bikashmainali18)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bikashmainali18@gmail.com)
+
+</div>
