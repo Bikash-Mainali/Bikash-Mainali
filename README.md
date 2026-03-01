@@ -1,23 +1,20 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=210&section=header&text=Bikash%20Mainali&fontSize=62&fontColor=00d4ff&fontAlignY=38&desc=Senior%20Full%20Stack%20Engineer%20%7C%20Apple%20%E2%80%A2%20Morgan%20Stanley%20%E2%80%A2%20CHG%20Healthcare&descSize=15&descColor=8892b0&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=210&section=header&text=Bikash%20Mainali&fontSize=62&fontColor=00d4ff&fontAlignY=38&desc=Senior%20Full%20Stack%20Engineer&descSize=15&descColor=8892b0&descAlignY=58&animation=fadeIn"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=750&lines=Java+21+%7C+Spring+Boot+3.x+%7C+Microservices+Architect;RAG+%2B+LLaMA+%7C+AI-Powered+Healthcare+Systems;Apache+Kafka+%7C+Event-Driven+Architecture;AWS+EKS+%7C+Kubernetes+%7C+Cloud-Native+Engineer;Sub-100ms+Latency+at+Apple+Search+Ads;AML%2FCFT+Risk+Systems+%40+Morgan+Stanley;8%2B+Years+%7C+Fortune+500+Production+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=750&lines=Java+25+%7C+Spring+Boot+4.x+%7C+Python+%7C+Microservice+Architecture;Angular+%7C+React+%7C+Node+%7C+Express;Kafka+%7C+JMS+%7C+Event+Driven+Architecture;Docker+%7C+Kubernetes+%7C+AWS" alt="Typing SVG" />
+  
 </a>
-
 <br/>
-
+<br/>
+<br/>
 <p>
-  <img src="https://img.shields.io/github/followers/Bikash-Mainali?style=for-the-badge&logo=github&logoColor=white&label=GitHub+Followers&color=0e75b6&labelColor=1a1a2e" alt="Followers"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/Experience-8%2B%20Years-00d4ff?style=for-the-badge&labelColor=1a1a2e" alt="Experience"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20To-Remote%20%7C%20Hybrid-2ecc71?style=for-the-badge&labelColor=1a1a2e" alt="Open to Work"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Based%20In-California%2C%20USA-ff6b6b?style=for-the-badge&labelColor=1a1a2e" alt="Location"/>
 </p>
 
 </div>
@@ -155,7 +152,7 @@ In simple terms: I build the invisible systems that make apps fast, safe, and sm
 ## 🚀 Current Focus @ CHG Healthcare
 
 ```yaml
-role: Senior Full Stack Software Engineer
+role: Full Stack Software Engineer
 company: CHG Healthcare
 since: July 2024
 
@@ -206,9 +203,7 @@ active_projects:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Bikash-Mainali&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
-
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=bikashmainali&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
 </div>
 
 ---
