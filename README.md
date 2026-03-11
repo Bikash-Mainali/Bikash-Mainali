@@ -1,7 +1,13 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=210&section=header&text=Bikash%20Mainali&fontSize=62&fontColor=00d4ff&fontAlignY=38&desc=Senior%20Full%20Stack%20Engineer&descSize=15&descColor=8892b0&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=210&section=header&text=Bikash%20Mainali&fontSize=62&fontColor=00d4ff&fontAlignY=38&desc=Senior%20Full%20Stack%20Engineer%20|%20bikashmainali.com.np&descSize=15&descColor=8892b0&descAlignY=58&animation=fadeIn"/>
+
+<p align="center">
+  🌐 <a href="https://bikashmainali.com.np">Website</a>&nbsp;  &nbsp;  
+  💼 <a href="https://www.linkedin.com/in/bikashmainali18/">LinkedIn</a> &nbsp;   &nbsp; 
+  📧 <a href="mailto:bikashmainali18@gmail.com">Email</a>&nbsp; &nbsp; 
+</p>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
