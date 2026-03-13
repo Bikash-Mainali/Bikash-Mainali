@@ -29,7 +29,7 @@
 
 ## 👋 About Me
 
-<img align="right" alt="Coding" width="320" src="https://github.com/Bikash-Mainali/Bikash-Mainali/blob/master/me2.gif"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="right" alt="Coding" width="320" src="https://github.com/Bikash-Mainali/Bikash-Mainali/blob/master/me2.gif"/>
 
 Hi, I'm **Bikash** — a software engineer based in USA with over **8 years of experience** building software that real people rely on every day.
 
