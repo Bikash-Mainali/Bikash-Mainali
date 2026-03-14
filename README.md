@@ -50,8 +50,7 @@ In simple terms: I build the invisible systems that make apps fast, safe, and sm
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bikashmainali18-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bikashmainali18)
 [![X / Twitter](https://img.shields.io/badge/X-BikashMainali94-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/BikashMainali94)
 [![Gmail](https://img.shields.io/badge/Gmail-bikashmainali18-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bikashmainali18@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-mainalibiki-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mainalibiki)
-[![GitHub](https://img.shields.io/badge/GitHub-Bikash--Mainali-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bikash-Mainali)
+[![Website](https://img.shields.io/badge/Website-bikashmainali.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bikashmainali.com.np)
 
 </div>
 
